@@ -91,6 +91,9 @@ InstagramChatBot/
 ├── services/
 │   ├── rag_service.py   # سرویس RAG
 │   └── llm_service.py   # سرویس LLM
+├── utils/
+│   ├── formatters.py    # فرمت داده‌ها
+│   └── logger.py        # سیستم لاگینگ
 └── db/
     └── app_data.sqlite  # دیتابیس (100 محصول)
 ```
